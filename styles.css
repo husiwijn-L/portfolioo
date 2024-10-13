@@ -10,14 +10,14 @@
 }
 
 body{
-    background-color: #7366bd;
+    background-color: #ffe5b4;
     font-family: 'Merriweather';
     font-size: 14px;
     font-weight: 400px;
 }
 
 .head{
-    background-color: #3d3669;
+    background-color: #fff9f0;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -38,7 +38,7 @@ body{
 }
 
 .naviki{
-    background-color: #5e5884;
+    background-color: #fff9f0;
     height: 400px;
     display: flex;
     justify-content: center;
@@ -62,7 +62,7 @@ body{
 }
 
 .kontakti{
-    background-color: #3d3669;
+    background-color: #fff9f0;
     display: flex;
     flex-direction: column;
     justify-content: center;
